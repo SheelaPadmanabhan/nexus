@@ -1,7 +1,7 @@
 # Nexus Installation
 Prequisties 
   To install nexus minimum server requirements are with 4CPU and 8GB RAM. Use t3.xlarge for AWS instance for better performance
-  to up system docker-compose-up -d, doker ps
+  to up system docker-compose up -d, doker ps
   
 Use the userdata-amazaonlinux2 script to install docker and docker compose in the amazonlinux2 instance
 
